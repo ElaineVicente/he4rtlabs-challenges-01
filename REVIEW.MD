@@ -1,3 +1,3 @@
-Nome/Nickname:
+Nome/Nickname: 
 
 Comentários do projeto:
